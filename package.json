@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/Gatreek92/simple-RESTful-api/issues"
   },
-  "homepage": "https://github.com/Gatreek92/simple-RESTful-api#readme"
+  "homepage": "https://github.com/Gatreek92/simple-RESTful-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0",
+    "mongoose": "^5.5.9"
+  }
 }
